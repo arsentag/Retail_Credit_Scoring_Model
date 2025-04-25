@@ -62,7 +62,7 @@ The model predicts the Probability of Default (PD) of retail loan applicants and
 - **Credit Scoring Report (PDF)**:  
   Detailed methodology, visuals, and business segmentation strategy.
 
-- **(Optional)**: Jupyter Notebook containing preprocessing, EDA, modeling, and evaluation.
+- **Jupyter Notebook containing preprocessing, EDA, modeling, and evaluation.**
 
 ---
 
